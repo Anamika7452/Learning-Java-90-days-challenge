@@ -17,6 +17,9 @@ This repository documents my 90-day journey of learning Java. The goal is to sta
 
 ## 📅 90 Days Progress Tracker
 
+#### 🚀 Start Date: 25 April 2026
+#### 🏁 End Date: 23 July 2026
+
 Legend: ⬜ Not Done | ✅ Completed | ❌ Missed
 
 | Day    | Status  | Notes |
