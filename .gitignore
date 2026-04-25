@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Allow Git to recurse into directories
+!*/
+
+# Track only Java source files
+!*.java
+
+# Keep repo metadata visible
+!.gitignore
+!README.md
