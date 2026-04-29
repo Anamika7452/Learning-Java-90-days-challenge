@@ -29,7 +29,7 @@ Legend: ⬜ Not Done | ✅ Completed | ❌ Missed
 | Day 2  | ✅     | Variables, Data Types, Naming Conventions, Literals, Keywords, Escape Sequences, User Input, Type Conversion and Casting                                              |
 | Day 3  | ✅     | Operators, Arithmetic Operators, Order of Operation(BODMAS, PEMDAS), Shorthand Operators, Unary Operators, If-else, Relational Operators, Logical Operators           |
 | Day 4  | ✅     | Operator Precedence, Intro to Number System, Intro to Bitwise Operators, Bitwise Operator usage, Comments ( Single "//", Multi line "/\* \*/", Java Docs "/\*\* \_/") |
-| Day 5  | ⬜     |                                                                                                                                                                       |
+| Day 5  | ✅     | While Loop/ For Loop, Methods/ Functions, Return statement, Parameter vs Arguments                                                                                    |
 | Day 6  | ⬜     |                                                                                                                                                                       |
 | Day 7  | ⬜     |                                                                                                                                                                       |
 | Day 8  | ⬜     |                                                                                                                                                                       |
