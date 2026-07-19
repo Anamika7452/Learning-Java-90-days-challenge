@@ -21,8 +21,6 @@ This repository documents my 90-day journey of learning Java. The goal is to sta
 
 #### 🏁 Expected End Date: 23 July 2026
 
-Legend: ⬜ Not Done | ✅ Completed | ❌ Missed
-
 | Day    | Status | Notes                                                                                                                                                                 |
 | ------ | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Day 1  | ✅     | Java Introduction, Java History, JDK Setup, IDE IntelliJ IDEA Setup, Java Basics Program                                                                              |
@@ -30,7 +28,7 @@ Legend: ⬜ Not Done | ✅ Completed | ❌ Missed
 | Day 3  | ✅     | Operators, Arithmetic Operators, Order of Operation(BODMAS, PEMDAS), Shorthand Operators, Unary Operators, If-else, Relational Operators, Logical Operators           |
 | Day 4  | ✅     | Operator Precedence, Intro to Number System, Intro to Bitwise Operators, Bitwise Operator usage, Comments ( Single "//", Multi line "/\* \*/", Java Docs "/\*\* \_/") |
 | Day 5  | ✅     | While Loop/ For Loop, Methods/ Functions, Return statement, Parameter vs Arguments                                                                                    |
-| Day 6  | ⬜     |                                                                                                                                                                       |
+| Day 6  | ✅     | Array, 2D Array, Traversal                                                                                                                                            |
 | Day 7  | ⬜     |                                                                                                                                                                       |
 | Day 8  | ⬜     |                                                                                                                                                                       |
 | Day 9  | ⬜     |                                                                                                                                                                       |
